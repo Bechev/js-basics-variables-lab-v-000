@@ -1,2 +1,2 @@
 // Code your solution in this file!
-set companyName = Scuber;
+const companyName = Scuber;
